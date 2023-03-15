@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @JoeEL1506
-- 👀 I’m interested in programming|Web/Software development - 🌱 I’m currently learning Web development
+- 👋 Hi, I’m Oluwasegun Joel Emmanuel
+- Frontend Developer 
+- 👀 I’m interested in programming|Software Engineer 
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me godspowervictor65@gmail.com|WhatsApp 09031754909
 
